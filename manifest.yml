@@ -1,0 +1,4 @@
+ --- applications:
+ - name: Suraksha_chatbot_api
+ - random-route: true
+ - memory: 256M
