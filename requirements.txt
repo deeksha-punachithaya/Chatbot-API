@@ -40,7 +40,7 @@ pyrsistent==0.16.0
 pytz==2020.1
 regex==2020.7.14
 requests==2.24.0
-rsa==4.6
+rsa==4.7
 scikit-learn==0.23.1
 scipy==1.5.2
 six==1.15.0
